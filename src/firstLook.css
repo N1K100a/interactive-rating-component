@@ -1,0 +1,40 @@
+.firstLook-con {
+    height: 100%;
+    width: 100%;
+}
+
+.star-icon {
+    height: 48px;
+    width: 48px;
+    background: #262E38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+
+}
+
+.star-icon img {
+    height: 16px;
+    width: 16px;
+}
+
+.big-title {
+    line-height: 43px;
+    font-size: 28px;
+    margin-top: 30px;
+    color: white;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.p-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    margin: 0;
+    margin-top: 7px;
+    color: #969FAD;
+
+}

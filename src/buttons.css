@@ -1,0 +1,48 @@
+.button-con {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btns {
+  height: 51px;
+  width: 51px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #262e38;
+  margin-top: 24px;
+  color: #7c8798;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.hover {
+  background: #7c8798;
+  color: white;
+}
+
+.active {
+  background: #fc7614;
+  color: white;
+}
+
+.submit {
+  width: 100%;
+  height: 45px;
+  border-radius: 22.5px;
+  background: #fc7614;
+  color: #ffffff;
+  font-size: 15px;
+  margin-top: 32px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  border: none;
+  cursor: pointer;
+}
+
+.submitActive {
+  background-color: #ffffff;
+  color: #fc7614;
+}
